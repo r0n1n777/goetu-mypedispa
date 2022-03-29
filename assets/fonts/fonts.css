@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'shinkregular';
+    src: url('shink_font_by_rifki_7ntypes-webfont.woff2') format('woff2'),
+         url('shink_font_by_rifki_7ntypes-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
